@@ -1,0 +1,13 @@
+4a7541ef581e12b6f08ed033af7358921f00b50c
+history
+    1  touch 1
+    2  ls
+    3  git status
+    4  git add 1
+    5  git status
+    6  touch file1
+    7  la
+    8  ls
+    9  git add file1
+   10  ls
+   848d8d4bd94d792a71c3f91a4b0469b2e3462335
