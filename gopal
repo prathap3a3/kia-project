@@ -1,0 +1,25 @@
+1  touch 1
+    2  ls
+    3  git status
+    4  git add 1
+    5  git status
+    6  touch file1
+    7  la
+    8  ls
+    9  git add file1
+   10  lsDEVOPS NOTES;
+GIT
+there are 3 phases in GIT
+ 1-workspace
+   in workspace we are creating the files,it shows in the colour of red,in workspace the heading is "untracked files"
+ 2-staging/index
+   it shows in the colour of green,the heading is "changes to be commited"
+ 3-local repositary 
+-----------
+*touch file name-to creat the files
+*ls-for listing the files
+*git status-it display the workspace files in red colour
+*git add file name-it will push the files from workspace to staging or index phase
+*git status-it display the index files in greeen colour
+*git commit -m "commit message" file name-this command will push index stage to local repositary
+*git log-it will display the commit id
